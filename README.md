@@ -1,12 +1,23 @@
 # Flask React Project
 
+NOTES 
+* Feel free to delete, comment out, modify etc. to suit your needs. 
+* The Table of Contents ('TOC') was auto-generated with Markdown-Preview, a VSCode Plugin.
+* I included some fake examples for some portions, like UI / UX, seeder data, etc, as well as
+links to potentially helpful resources, in comments. 
+* Other portions, like the tables and routes, have been filled using the content of the
+Flask starter template provided by instructor Bart Dorsey.
 
+## TABLE OF CONTENTS
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
-
 <!-- code_chunk_output -->
-
-- [Description](#description)
+- [Updates](#updates)
+- [About](#about)
+  - [Team](#team)
+  - [Description](#description)
   - [Screenshots](#screenshots)
+    - [Splash Page](#splash-page)
+    - [Product Page](#product-page)
   - [Code Samples](#code-samples)
     - [Snippet 1: Warping time-space with an algorithm](#snippet-1-warping-time-space-with-an-algorithm)
     - [Snippet 2: A custom reusable 'type' input component](#snippet-2-a-custom-reusable-type-input-component)
@@ -46,18 +57,35 @@
 
 <!-- /code_chunk_output -->
 
+## Updates
+01/01/21 Notes here about any recent major updates, plans, or news.
 
-## Description
-**Inspirations:** [insert app here](https://www.pinterest.com/)
+
+## About
+### Team
+* Name [GitHub](github-link-here) [LinkedIn](linkedin-link-here) [Website](link-here)
+* Name [GitHub](github-link-here) [LinkedIn](linkedin-link-here) [Website](link-here)
+
+### Description
+**INSPIRATIONS**
+* [insert app here](https://www.pinterest.com/)
 <!-- If your site is a clone, or you have any inspirations heavily referenced
 for the project, you can list them here if you want. -->
+A quick summary of what your app is, what makes it unique, who its intended for, et cetera.
+
+**USER STORY**
+<!-- Wikipedia: User Story - https://en.wikipedia.org/wiki/User_story -->
+* As a *role* I can *capability*, so that *receive benefit*.
+* *As a* garden hobbyist, *I can* browse and filter through a selection of products by plant type, *so that* I can easily find and purchase plants I'm interested in.
 
 ### Screenshots
-![screenshot 1](https://www.thesprucepets.com/thmb/oeu7rDWt4nJFMBkwGds21R_XUW8=/1881x1411/smart/filters:no_upscale()/ApricotPoodles-f4f1462fcf05442ab08c5437122efdf6.jpg)
+#### Splash Page
+![screenshot 1](https://cdn190.picsart.com/230601303016212.png?type=webp&to=crop&r=256)
 <!-- NOTE Change links to your own local image paths -->
 Add potential notes here.
 
-![screenshot 2](insert-image-path-here)
+#### Product Page
+![screenshot 2](https://cdn190.picsart.com/230601303016212.png?type=webp&to=crop&r=256)
 Add potential notes here.
 
 
@@ -119,7 +147,7 @@ Small, reusable input components like this were built and applied liberally to f
 [See Online Diagram](https://dbdiagram.io/) 
 <!-- NOTE Change the link to your own diagram -->
 
-![schema](insert-schema-image-path-here)
+![schema](https://cdn190.picsart.com/230601303016212.png?type=webp&to=crop&r=256)
 
 
 ### Tables
